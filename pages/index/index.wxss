@@ -1,0 +1,9 @@
+
+.button {
+  width: 80vw;
+  text-align: center;
+  margin-top: 20px;
+  background-color: #f1f1f1;
+  line-height: 200%;
+  padding: 10px;
+}

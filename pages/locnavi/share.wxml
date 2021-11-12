@@ -1,0 +1,8 @@
+<view  class="container">
+  <view style='margin: 60px 20px; text-align: center;'>
+    {{msg}}
+  </view>
+  <button open-type="share">
+    发送给朋友
+  </button>
+</view>
