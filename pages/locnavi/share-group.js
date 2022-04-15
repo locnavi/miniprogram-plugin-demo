@@ -8,7 +8,7 @@ Page({
   },
 
   onLoad(query){
-    locnavi.share(query)
+    locnavi.shareGroup(query)
       .then(msg => {
         this.setData({
           msg
@@ -17,6 +17,6 @@ Page({
   },
 
   onShareAppMessage(){
-    return locnavi.shareMessage;
+    return locnavi.shareGroupMessage;
   }
 })

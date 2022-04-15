@@ -1,19 +1,31 @@
 <!-- index.wxml -->
 <view class="container">
   <view>
-    <navigator class='button' url="/pages/locnavi/index?id=jKP3XLcyOP">杭州办公室</navigator>
+    <navigator style='margin-top: 20px;background-color: #f1f1f1;line-height:200%;padding: 10px 40px;' url="/pages/locnavi/index?id=jKP3XLcyOP">
+      杭州办公室
+    </navigator>
   </view>
   <view>
-    <navigator class='button' url="/pages/locnavi/index?id=jKP3XLcyOP&func=around">
+    <navigator style='margin-top: 20px;background-color: #f1f1f1;line-height:200%;padding: 10px 40px;' 
+      url="/pages/locnavi/index?id=jKP3XLcyOP&func=around">
       杭州办公室 周边
     </navigator>
   </view>
   <view>
-    <navigator class='button' url="/pages/locnavi/index?id=jKP3XLcyOP&func=record">
+    <navigator style='margin-top: 20px;background-color: #f1f1f1;line-height:200%;padding: 10px 40px;' 
+      url="/pages/locnavi/index?id=jKP3XLcyOP&func=record">
       杭州办公室 停车打卡
     </navigator>
   </view>
   <view>
-    <navigator class="button" url="/pages/locnavi/index?id=9MpBpfp0gz">苏州大学附属第一医院</navigator>
+    <navigator style='margin-top: 20px;background-color: #f1f1f1;line-height:200%;padding: 10px 40px;' url="/pages/locnavi/index?id=9MpBpfp0gz">
+      苏州大学附属第一医院
+    </navigator>
+  </view>
+  <view>
+    <navigator style='margin-top: 20px;background-color: #f1f1f1;line-height:200%;padding: 10px 40px;' 
+    url="/pages/locnavi/index?id=bhGvMLZ75v&appKey=Me5iM7Lx0G&poi=51">
+      邵逸夫 普外科
+    </navigator>
   </view>
 </view>

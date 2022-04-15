@@ -2,21 +2,21 @@
   "pages": [
     "pages/index/index",
     "pages/locnavi/index",
-    "pages/locnavi/share"
+    "pages/locnavi/share",
+    "pages/locnavi/share-group"
   ],
   "window": {
     "backgroundTextStyle": "light",
     "navigationBarBackgroundColor": "#fff",
-    "navigationBarTitleText": "Weixin",
+    "navigationBarTitleText": "",
     "navigationBarTextStyle": "black"
   },
   "style": "v2",
   "sitemapLocation": "sitemap.json",
   "plugins": {
     "locnavi": {
-      "version": "1.0.0",
-      "provider": "wx8735a8a39cf58b5e",
-      "export": "share-locnavi.js"
+      "version": "1.1.1",
+      "provider": "wx8735a8a39cf58b5e"
     }
   }
 }
