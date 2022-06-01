@@ -7,6 +7,12 @@
   </view>
   <view>
     <navigator style='margin-top: 20px;background-color: #f1f1f1;line-height:200%;padding: 10px 40px;' 
+      url="/pages/locnavi/index?id=7WUnoZnkbF&custom=https%3A%2F%2Fm.locnavi.com%2Fcustom-iframe.html">
+      iframe嵌入首页demo
+    </navigator>
+  </view>
+  <view>
+    <navigator style='margin-top: 20px;background-color: #f1f1f1;line-height:200%;padding: 10px 40px;' 
       url="/pages/locnavi/index?id=jKP3XLcyOP&func=around">
       杭州办公室 周边
     </navigator>
